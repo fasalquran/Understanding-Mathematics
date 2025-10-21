@@ -48,3 +48,27 @@ Dengan mengikuti langkah-langkah ini, anda boleh menukar rangka buku dan kandung
 
 Understanding-Mathematics/README.md at main · fasalquran/Understanding-Mathematics
 Fokus pada kotak teks penapis dan senarai item, Item fokus: Lesen MIT, tidak dipilih, 4 daripada 14
+
+
+# 1.1 Purpose of the Book
+
+Welcome to "Understanding Mathematics through Reading, Concatenation, and Logical Truth." This book aims to provide a comprehensive guide to effectively reading and understanding mathematical texts. By integrating reading strategies, the process of concatenation, and the importance of logical truth, this book will help you develop a deeper understanding of mathematics.
+
+## Target Audience
+This book is designed for students, educators, and anyone interested in improving their mathematical understanding.
+
+
+# 2.1 Reading as a Foundation
+
+Reading is the cornerstone of understanding any subject, and mathematics is no exception. Effective reading in mathematics involves interpreting symbols, equations, and logical structures. Unlike reading literature, reading mathematics requires a different set of skills due to its symbolic and abstract nature.
+
+## Interpreting Symbols
+Understanding the meaning of mathematical symbols is crucial. For example, the symbol "+" represents addition, while "-" represents subtraction.
+
+## Interpreting Equations
+Reading and understanding mathematical equations involves recognizing the structure and meaning of each component. For example, the equation \( 2x + 3 = 7 \) can be interpreted as "two times \( x \) plus three equals seven."
+
+## Interpreting Text
+Reading and understanding mathematical explanations and proofs requires careful attention to detail. Each step in a proof should be understood and verified for logical consistency.
+
+
