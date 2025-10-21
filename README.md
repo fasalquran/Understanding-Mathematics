@@ -15,6 +15,7 @@
 10. [Case Studies and Real-World Applications](Chapter_10/10.1_Case_Study_1_Solving_Linear_Equations.md)
 11. [Conclusion](Conclusion/11.1_Summary_of_Key_Concepts.md)
 12. [Further Reading and Resources](Further_Reading_and_Resources/12.1_Recommended_Books.md)
+. 
 Introduction/1.1_Purpose_of_the_Book.md
 # 1.1 Purpose of the Book
 
